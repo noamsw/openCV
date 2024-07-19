@@ -1,0 +1,24 @@
+install opencv-contrib-python
+install caer
+learn how to read images/vis in openCV - read.py
+learn how to rescale images/vis in openCV - rescale.py
+Learn how to draw on photos in openCV - draw.py
+learn the most basic functions in openCV - basic.py
+learn about basic transformations in openCV - transformations.py
+learn how to identify contours in images in openCV - contours.py
+contours are distinct from edgs
+learn about color spaces in openCV - color_spaces.py
+learn about how to split and merge color channels in openCV - splitmerge.py
+learn how to smooth and blur an image in openCV - smoothing.py
+learn about bitwise operators in openCV - bitwise.py
+learn how to use bitwise operations for masking in openCV - masking.py
+learn how to compute histograms of pixel intensity in images in opneCV - histograms.py
+learn about thresholding in openCV - thresh.py
+learn about gradient and edge detection in openCV - gradients.py
+learn about face detection using haar cascades in openCV - face_detection.py
+learn about face recognition using haar cascades in openCV - face_recognition.py
+our model was not amazing, around 56% this is propbably as a result of undertraining.
+we did not have a enough data to train on. therefore the model is not super accurate
+learn about deep models in openCV.openCV is usually used for normalizing the data.
+we will only resize befoe. we will use tensor flow to instantiate a deep learning model
+we will use candle for a free gpu to train our model 
